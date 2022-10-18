@@ -1,0 +1,40 @@
+https://docs.google.com/forms/d/e/1FAIpQLSeT6o2biBQWOmtMVM7PuCB9Y9eFR5oDPCcWRFskRZZdiILF5w/viewform
+
+hr@leadintegratedservices.com
+kanurinavyasri26@gmail.com
+giftson@leadintegratedservices.com 
+samuel@rentointegrated.com
+venkat@rentointegrated.com
+tamil@rentointegrated.com
+mani@rentointegrated.com
+
+----------------------------------
+
+sakthinesan102@gmail.com
+gabrielprince2k@gmail.com
+
+Form validate
+  num =  /^([0-9]{10})+$/
+  alpha = /^[A-Za-z]+$/
+   mail = /^([a-z0-9_.])+\@+([a-z])+\.+([a-z])+$/
+
+
+  send a mail with html - formspree without server
+
+------------------------------------------------------------------------
+
+fontawesome ----- <script src="https://kit.fontawesome.com/53a10f910c.js" crossorigin="anonymous"></script>
+
+bootstrap ---- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+
+jquery ----- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+
+
+
+
+Respected  sir / madam,                   I would like to inform you , there is no internet connection on my workp[lace (pc) it some ethernet cable problem . I plan to connect internet through usb tethering for pc . So i request you to kindly grant me a permission for that issue.
+

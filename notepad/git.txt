@@ -1,0 +1,13 @@
+Git ---- monish007@
+
+cd first -   add a name ;
+cd..     -  remove a name ;
+ls       -  to show a all file ; 
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MohnishKumarS/project.git
+git push -u origin main
