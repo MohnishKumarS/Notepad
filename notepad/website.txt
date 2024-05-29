@@ -8,6 +8,7 @@ mdbootstrap
 ------------css design-----------------
 
 Aos
+
 css hover
 
 
@@ -15,16 +16,13 @@ css hover
 
 icons8
 materialdesign
+boxicon
+storyset
 Feather icon
 Flaticon
 fontawesome
 
 
-
------------------pw------------------------
-
-Libs2022@
-Lead21@
 
 
 
