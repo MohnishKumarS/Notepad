@@ -1,4 +1,3 @@
-Git ---- monish007@
 
 cd first -   add a name ;
 cd..     -  remove a name ;
